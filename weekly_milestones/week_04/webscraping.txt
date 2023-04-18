@@ -1,0 +1,54 @@
+
+
+
+Regular Expressions	
+powerful language to find patterns in text
+
+
+HyperText Transfer Protocol (HTTP)	
+request for a web page that allows to submit large forms or upload files
+
+
+200
+response indicating that a web page was successfully delivered
+
+BeautifulSoup4
+Python library for downloading entire web sites/ Python library for parsing HTML pages	
+
+Scrapy
+Python library for downloading entire web sites/ Python library for parsing HTML pages	
+
+
+API
+generic name for a (web) programming interface
+
+
+HTTP GET	
+request for a web page with a size limit
+
+
+API
+generic name for a (web) programming interface
+
+	
+requests
+Python library for sending HTTP GET and HTTP POST requests
+	
+
+response indicating that a web page could not be found
+404
+
+	
+HTTP POST
+method to send text messages from one computer to another, built on top of TCP/IP.
+
+
+HyperText Markup Language (HTML)
+text format in which most web pages are written
+
+
+Unified Resource Locator (URL)
+address of a website, file or similar
+
+
+Taha, Kate, Cami
