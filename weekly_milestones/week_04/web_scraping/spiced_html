@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" dir="ltr">
+
+<head>
+    <title>Your new career starts here | Spiced Academy</title>
+    <meta name="description" content="Kickstart your new career with our intensive, on-site tech programs in Web Development and Data Science.">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel='stylesheet' href='/css/main.css'>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=3">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=3">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="google-site-verification" content="DICJgJwgfNeeiq66MAwDzpaeqBBgDqZsBNFBMwVtoaY">
+    <meta name="theme-color" content="#2E016D" />
+    
+    
+    <meta name="robots" content="noodp">
+    <link rel="canonical" href="https://www.spiced-academy.com/en">
+    <link rel="alternate" href="https://www.spiced-academy.com/en/" hreflang="en" />
+    <link rel="alternate" href="https://www.spiced-academy.com/de/" hreflang="de" />
+    
+    
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Spiced Academy | Your new career starts here">
+    <meta property="og:description"
+      content="Kickstart your new career with our intensive, on-site tech programs in Web Development and Data Science.">
+    <meta property="og:url" content="https://www.spiced-academy.com/">
+    <meta property="og:site_name" content="Spiced Academy">
+    <meta property="article:publisher" content="https://www.facebook.com/spicedacademy">
+    <meta property="fb:app_id" content="1214485688610932">
+    <meta property="og:image" content="https://www.spiced-academy.com/img/people/spiced_share.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="Kickstart your new career with our intensive, on-site tech programs in Web Development and Data Science.">
+    <meta name="twitter:title" content="Your new career starts here | Spiced Academy – A Coding Academy in Berlin">
+    <meta name="twitter:site" content="@SPICEDacademy">
+    <meta name="twitter:image" content="https://www.spiced-academy.com/img/people/spiced_share.jpg">
+    <meta name="twitter:creator" content="@SPICEDacademy">
+    
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="10292001-242f-40d1-9858-68624beb4a33" data-culture="en" type="text/javascript" async></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78282401-1" data-cookieconsent="statistics"></script>
+    
+    <script data-cookieconsent="statistics" type="text/plain">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'UA-78282401-1');
+      gtag('config', 'AW-882057422');
+    </script>
+    
+    <!-- Facebook Pixel Code -->
+    <script data-cookieconsent="marketing" type="text/plain">
+      !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+          n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+        n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+      }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1628135084116192');
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+      <img height="1" width="1" src="https://www.facebook.com/tr?id=1628135084116192&ev=PageView
+    &noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code --><!-- Reddit Pixel -->
+    <script data-cookieconsent="marketing" type="text/plain">
+      !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_feifiqjm');rdt('track', 'PageVisit');
+    </script>
+    <!-- DO NOT MODIFY -->
+    <!-- End Reddit Pixel --><!-- Tracking for Bing Ads. Please do not modify! -->
+    <script data-cookieconsent="marketing" type="text/plain">
+      (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"136023661"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+    </script><!-- Tracking for TikTok. Please do not modify! -->
+    <script data-cookieconsent="marketing" type="text/plain">
+        !function (w, d, t) {
+            w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+    )ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+        
+            ttq.load('CCVF223C77U53J7CHMS0');
+            ttq.page();
+        }(window, document, 'ttq');
+    </script><script data-cookieconsent="marketing" type="text/plain">
+      _linkedin_partner_id = "649321";
+      window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+      window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script>
+    <script data-cookieconsent="marketing" type="text/plain">
+      (function(l) {
+        if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+          window.lintrk.q=[]}
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})(window.lintrk);
+    </script>
+    <noscript>
+      <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=649321&fmt=gif" />
+    </noscript></head>
+
+<body>
+
+    <!-- Messenger Chat plugin Code -->
+    <div id="fb-root"></div>
+    <!-- Your Chat plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "844421869000958");
+      chatbox.setAttribute("attribution", "biz_inbox");
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>    <header>
+        <div class="header-left">
+            <a href="/">
+                <img class="header-logo" src="/img/Spiced_Logo_Dark.svg" alt="Spiced logo">
+            </a>
+            <div class="header-links">
+                <ul class="top-level-menu">
+                    <li>
+                        <a href="/program">PROGRAMS</a>
+                        <ul class="dropdown">
+                            <li><a href="/program/full-stack-web-development">Web Development</a></li>
+                            <li><a href="/program/data-science">Data Science</a></li>
+                            <li><a href="/program/data-analytics">Data Analytics</a></li>
+                            <li><a href="/program/ux-ui-design">UX/UI Design</a><span class="new-course">NEW</span></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/about">WHY SPICED?</a>
+                        <ul class="dropdown">
+                            <li><a href="/about">About</a></li>
+                            <li><a href="/financing">Financing</a></li>
+                            <li><a href="/career-services">Career Services</a></li>
+                            <li><a href="/graduates">Graduates</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <a href="/apply" class="apply">APPLY NOW</a>
+            </div>
+        </div>
+    
+        <div class="header-right">
+            <div class="header-links fade-header">
+    
+      
+            </div>
+            <a href="/apply" class="apply-now fade-header">
+                APPLY NOW
+            </a>
+                <p class="js-language-toggle language-toggle">
+                    <a style='font-weight:100;' href='/lng/de'>DE</a> | <a style='font-weight:900;'  href='/lng/en'>EN</a>
+                </p>
+            <div id="nav-icon">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    
+        <div class="header-sidebar-container">
+            <div class="nav-links-container">
+                <div>
+                    <h4 class="lighter">
+                        <a href="/program">Programs</a>
+                        <span class="toggler-open"></span>
+                    </h4>
+                    <ul class="toggler-open">
+                        <li>
+                            <a href="/program/full-stack-web-development">Web Development</a>
+                        </li>
+                        <li>
+                            <a href="/program/data-science">Data Science</a>
+                        </li>
+                        <li>
+                            <a href="/program/data-analytics">Data Analytics</a>
+                        </li>
+                        <li>
+                            <a href="/program/ux-ui-design">UX/UI Design</a><span class="new-course-light">NEW</span>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="lighter">
+                        <a href="/about">Why Spiced?</a>
+                        <span></span>
+                    </h4>
+                    <ul>
+                        <li>
+                            <a href="/about">About</a>
+                        </li>
+                        <li>
+                            <a href="/financing">Financing</a>
+                        </li>
+                        <li>
+                            <a href="/career-services">Career Services</a>
+                        </li>
+                        <li>
+                            <a href="/graduates">Graduates</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <ul>
+                    <li>
+                        <a href="/faq">FAQ</a>
+                    </li>
+                    <li>
+                        <a href="https://blog.spiced-academy.com/" target="_blank">Blog</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <a href="/outcomes">Outcomes</a>
+                    </li>
+                    <li>
+                        <a href="/hiring">Hire a Spicedling</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <div class="scroll-container">
+        <section class="js-header-left-dark js-header-right-light mob-col-reverse">
+
+    <div class="panel v-center-h-end v-center-h-center--mob">
+        <div class="text-container text-container--mob-center">
+            <h1 class="main-heading  main-heading--future ">
+            
+                Your future in tech
+            </h1>
+            <h3 class="sub-heading  ">Kickstart your new career with our intensive, on-site tech programs in Web Development and Data Science.</h3>            <a href="/program">
+                <button class="btn btn--primary">Start your journey</button>
+            </a>
+        </div>
+    </div>
+
+    <div class="panel bg-color-primary-light duel-background panel-center">
+        <div class="circle-image-container">
+            <div class="circle-half circle-half--left"
+                style="background-image: url(/img/people/coding_bootcamp_g_homepage_spiced.jpg); ">
+            </div>
+            <div class="top-right-circle circle-quarter bg-color-action">
+            </div>
+            <div class="bottom-right-circle circle-quarter bg-color-white"></div>
+        </div>    </div>
+
+</section>
+
+<section class="js-header-left-light js-header-right-light mob-bg-color-action-dark" id="start-journey">
+
+    <div class="panel mob-one-third-panel">
+        <img
+            class="single-panel-image student-built-image"
+            src="/img/people/spiced-academy-coding-bootcamp-homepage-2.jpg"
+            alt="spiced student"
+        >    </div>
+
+    <div
+        class="panel bg-color-action flex-center mob-two-thirds-panel mob-block ">
+        <div class="triangle-top-right triangle-top-right--action "></div>
+        <div class="text-container text-container--simple mob-relative">
+            <h2 class="main-heading main-heading--space-bottom main-heading--secondary">
+                Your new career starts here
+            
+            </h2>
+    
+            <div class="career-start-container--subheading-container">
+                <div class="shape-box-small small-shape-spacer-container">
+                    <div class="shape-box-small--triangle-top-right"></div>
+                </div>
+                <div> 
+                            <h4 class="">
+                                Get all the tools you need to enter today’s tech job market
+                            </h4>
+    
+                    <p class="">Whether you’re looking to level up or switch fields entirely, Spiced gives you the skills to get hired. Build a portfolio full of real-life projects using the most in-demand technologies on the market - ready to impress any hiring manager.</p>
+    
+    
+                </div>
+            </div>
+    
+        </div>
+    </div>
+</section>
+
+<section class="js-header-left-dark js-header-right-dark section-bigger-no-snap">
+        <div class="programs-container mob-top-panel mob-full-panel">
+            <div class="programs-top main-heading--center">
+                <h2 class="main-heading  ">
+                
+                    Our Programs
+                </h2>
+                <h3 class="sub-heading  ">Join 1400 Spicedlings and take the leap into tech</h3>
+            </div>
+        
+            <div class="programs-middle">
+                    <div class="programs-mini-section">
+                        <img class="program-icon" src="/img/icons/courses/fs.svg" alt="Full Stack Web Development">
+                        <div>
+                            <h3>Full Stack Web Development</h3>
+                            <p class="info-heading">12 Weeks | Berlin</p>
+                            <p >The first step on your next step. Catapult yourself into a rewarding career as a programmer.</p>
+                        </div>
+                        <a href="/program/full-stack-web-development">More info ></a>
+                    </div>
+                    <div class="programs-mini-section">
+                        <img class="program-icon" src="/img/icons/courses/ds.svg" alt="Data Science">
+                        <div>
+                            <h3>Data Science</h3>
+                            <p class="info-heading">12 Weeks | Berlin or Remote</p>
+                            <p >Go beyond your comfort zone. Move from an aspiring data scientist to an inspiring one.</p>
+                        </div>
+                        <a href="/program/data-science">More info ></a>
+                    </div>
+                    <div class="programs-mini-section">
+                        <img class="program-icon" src="/img/icons/courses/da.svg" alt="Data Analytics">
+                        <div>
+                            <h3>Data Analytics</h3>
+                            <p class="info-heading">9 Weeks | Berlin or Remote</p>
+                            <p >For beginners, but not for the fainthearted. Go from your first line of code to becoming a data whizz.</p>
+                        </div>
+                        <a href="/program/data-analytics">More info ></a>
+                    </div>
+                    <div class="programs-mini-section">
+                        <img class="program-icon" src="/img/icons/courses/ux-ui.svg" alt="UX/UI">
+                        <div>
+                            <h3>UX/UI</h3>
+                            <p class="info-heading">12 Weeks | Berlin</p>
+                            <p >Light mode, dark mode, you mode. Turn your affinity for design into a career.</p>
+                        </div>
+                        <a href="/program/ux-ui-design">More info ></a>
+                    </div>
+                    <div class="programs-mini-section">
+                        <img class="program-icon" src="/img/icons/courses/career.svg" alt="Career services">
+                        <div>
+                            <h3>Career services</h3>
+                            <p class="info-heading">Throughout the course</p>
+                            <p >Where practical meets personal. Get the skills you need to land a job you love.</p>
+                        </div>
+                        <a href="/career-services">More info ></a>
+                    </div>
+            </div>
+        </div></section>
+
+<section class="js-header-left-light js-header-right-light">
+
+    <div class="panel mob-hidden mob-bg-color-primary-light landscape-inherit">
+        <div class="triple-image-container triple-image-container--two-images-mobile">
+            <img src=/img/people/spiced-academy-homepage-3.jpg alt="spiced-academy-homepage-3">
+            <img class="small-image" src=/img/people/spiced-academy-homepage-7.jpg alt="spiced-academy-homepage-7">
+            <img class="small-image" src=/img/people/spiced-academy-homepage-8.jpg alt="spiced-academy-homepage-6">
+        </div>    </div>
+
+    <div class="panel bg-color-primary-dark panel-employment mob-full-panel">
+        <div class="triangle-top-right triangle-top-right--primary"></div>
+        <div class="start-application-container">
+            <div class="employment-rate-container">
+                <div class="employment-percentage">
+                    <div>
+                        <div class="main-text">4.7</div>
+                        <div class="sub-text">out of 5</div>
+                    </div>
+                </div>
+                <h3 class="sub-heading sub-heading--white">Average review on Course Report</h3>
+            </div>
+            <div class="award-container">
+                <img src="/img/icons/best_coding_bootcamp_2019_white_v2.png" alt="course report award full stack">
+                <img src="/img/icons/best_data_science_bootcamp_2019_white_v2.png"
+                    alt="course report award Data Science">
+            </div>
+        </div>
+
+</section>
+
+<section class="js-header-left-dark js-header-right-light mob-col-reverse">
+
+    <div class="panel bg-color-white mob-two-thirds-panel">
+        <div class="action-box action-box--right">
+            <h2
+                class="main-heading main-heading--off-center-left main-heading--space-bottom"
+            >
+                    Career <br> Services
+            </h2>
+                <div class="shape-box-small small-shape-spacer-container">
+                    <div class="shape-box-small--triangle-top-right-pink"></div>
+                </div>
+                <p class="bold mob-hidden">Practical, real-world approach</p>
+                <p class="mob-only career-mob-heading">Real-world technical interviews</p>
+                <p class="mob-hidden p-smaller">An extensive focus on passing real-world technical interviews.</p>
+                <div class="shape-box-small small-shape-spacer-container">
+                    <div class="shape-box-small--triangle-top-right-pink"></div>
+                </div>
+                <p class="bold mob-hidden">Tailored coaching sessions</p>
+                <p class="mob-only career-mob-heading">Tailored coaching sessions</p>
+                <p class="mob-hidden p-smaller">Unlimited one-to-one coaching sessions, helping you to develop professionally.</p>
+                <div class="shape-box-small small-shape-spacer-container">
+                    <div class="shape-box-small--triangle-top-right-pink"></div>
+                </div>
+                <p class="bold mob-hidden">More than just technical skills</p>
+                <p class="mob-only career-mob-heading">Professional development</p>
+                <p class="mob-hidden p-smaller">We're here to support you with the personal changes in your career transition, too.</p>
+                <div class="shape-box-small small-shape-spacer-container">
+                    <div class="shape-box-small--triangle-top-right-pink"></div>
+                </div>
+                <p class="bold mob-hidden">Partnership Program</p>
+                <p class="mob-only career-mob-heading">Partnership Program</p>
+                <p class="mob-hidden p-smaller">Connect with some of the hottest startups in Germany with our unique Partnership Program.</p>
+        </div>
+    </div>
+    <div class="panel mob-one-third-panel">
+        <img
+            class="single-panel-image student-built-image"
+            src="/img/people/spiced-academy-careers-service-r.jpg"
+            alt="career-services"
+        >    </div>
+
+</section>
+
+<section class="js-header-left-light js-header-right-light finger-swipe grad-quotes-container">
+        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-0  fade-in ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-magali.jpg"
+                        alt="Magali, studied Web Development in Berlin"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-0  fade-in ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">The teachers were able to deliver funny and interesting classes for even complex topics. They made the educational journey easy!</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Magali</p>
+                            <p class="student-job">Web Development Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div>        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-1  fade-out ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-ting-yi.jpg"
+                        alt="Ting-Yi, studied Web Development in Berlin"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-1  fade-out ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">The instructors were friendly and humorous, it was easy to approach them with questions without feeling judged.</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Ting-Yi</p>
+                            <p class="student-job">Web Development Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div>        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-2  fade-out ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-ash.jpg"
+                        alt="Ash, studied Web Development in Berlin"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-2  fade-out ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">Spiced appeals to a diverse range of students from all different educational backgrounds. For someone coming from an artistic background, it felt like the right choice.</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Ash</p>
+                            <p class="student-job">Web Development Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div>        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-3  fade-out ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-catarina.jpg"
+                        alt="Catarina, Data Science in Stuttgart"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-3  fade-out ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">Spiced is by far the most complete course I found. It’s very close to reality in terms of the markets and what they’re looking for.</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Catarina</p>
+                            <p class="student-job">Data Science Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div>        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-4  fade-out ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-oliver.jpg"
+                        alt="Oliver, studied Data Science in Hamburg"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-4  fade-out ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">If you’re interested in Data Science or just want to find out more about it, you don’t need to think too long! I quit my job for Spiced and haven’t regretted it to this day.</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Oliver</p>
+                            <p class="student-job">Data Science Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div>        <div class="panel bg-color-white mob-hidden graduate-quotes js-carousel-slide-5  fade-out ">
+                <div class="three-quarter-panel">
+                    <img
+                        class="single-panel-image student-built-image"
+                        src="/img/quotes/spiced-academy-quote-alisa.jpg"
+                        alt="Alisa, studied Data Science in Stuttgart"
+                    >        </div>
+                <div class="">
+                    <div class="our-students-work-at">
+                        <h4>Our students now work at:</h4>
+                        <div class="four-logo-container">
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/bcg-logo-grey.svg" alt="bcg">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/infarm-logo-grey.svg" alt="infarm">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/ebay-logo-grey.svg" alt="Ebay">
+                            </div>
+                            <div class="company-logo-container">
+                                <img src="/img/company-logos/wework-logo-grey.svg" alt="audible">
+                            </div>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        
+            <div class="panel mob-full-panel graduate-quotes js-carousel-slide-5  fade-out ">
+                <div class="half-panel bg-color-action">
+                    <div class="quote-block">
+                        <p class="quotation-mark">"</p>
+                        <p class="quotation">Spiced gave me enough background for almost all the topics in Data Science. I’m now ready to dig deep in any topic I’d like to.</p>
+                        <p class="quotation-mark quotation-mark-bottom">"</p>
+                        <div class="student-name-job">
+                            <p class="student-name">Alisa</p>
+                            <p class="student-job">Data Science Graduate</p>
+                        </div>
+                    </div>        </div>
+                <div class="half-panel bg-color-action-dark"></div>
+                <span class="graduate-quotes link">
+                    <div class="shape-box-small flex js-btn js-prev" id="">
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                        <div class="shape-box-small--chevron js-btn js-prev"></div>
+                    </div>            <p class="js-prev js-btn"> Prev</p>
+                </span>
+                <span class="graduate-quotes link">
+                    <p class="js-next js-btn">Next </p>
+                    <div class="shape-box-small flex js-btn js-next" id="">
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                        <div class="shape-box-small--chevron js-btn js-next"></div>
+                    </div>        </span>
+            </div></section>
+
+<section class="js-header-left-light js-header-right-light">
+
+    <div class="full-width-panel  bg-color-primary-light primary-dark-triangle-sm full-width-triangle-top-right--mob-hidden">
+        <div class="where-our-grads-work-container">
+            
+            <div class=" where-our-grads-work ">
+                    <div>
+                        <h2 class="main-heading main-heading--secondary">Where Spicedlings work</h2>
+                        <h3 class="mob-hidden sub-heading">Spicedlings are getting hired by your favourite companies: </h3>
+                    </div>
+    
+    
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/google-logo-white.svg" alt="google">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/facebook-logo-white.svg" alt="facebook">
+                    </div>
+                    <div class="logo-container  mob-hidden ">
+                        <img src="/img/company-logos/bcg-logo-white.svg" alt="bcg">
+                    </div>
+                    <div class="logo-container  mob-hidden ">
+                        <img src="/img/company-logos/deloitte-logo-white.svg" alt="deloitte">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/ebay-logo-white.svg" alt="ebay">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/klarna-logo-white.svg" alt="klarna">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/accenture-logo-white.svg" alt="accenture">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/soundcloud-logo-white.svg" alt="soundcloud">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/zalando-logo-white.svg" alt="zalando">
+                    </div>
+                    <div class="logo-container  mob-hidden ">
+                        <img src="/img/company-logos/infarm-logo-white.svg" alt="infarm">
+                    </div>
+                    <div class="logo-container  mob-hidden ">
+                        <img src="/img/company-logos/wework-logo-white.svg" alt="wework">
+                    </div>
+                    <div class="logo-container ">
+                        <img src="/img/company-logos/audible-logo-white.svg" alt="audible">
+                    </div>
+    
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/js/carousel.js"></script>
+<script src="/js/details-summary.js"></script>
+
+        <section id="contact-us"   class="mob-bg-color-primary-dark"  >
+            <footer >
+                    <div class="footer-top-container mob-smaller-panel mob-top-panel">
+                        <div class="panel-footer panel-footer--flex">
+                            <div class="footer-top-panel">
+                                <div class='mob-hidden'>
+                                    <h2>Questions?</h2>
+                                    <p class='sub-heading sub-heading--grey'>You can head to our <a href='/faq'>FAQ</a> page or...</p>
+                                </div>
+                                <a href="https://calendly.com/admissions-spiced/spiced-20-minute-chat" rel="nofollow noopener" target="_blank">
+                                    <button class='btn btn--primary'>Schedule a Chat</button>
+                                </a>
+                            </div>
+                          
+                        </div>
+        
+                        <div class='panel-footer panel-footer--flex bg-color-primary-light'>
+                            <div class="footer-top-panel footer-top-panel--white">
+                                <div class='mob-hidden'>
+                                    <h2 class='lighter'>Ready?</h2>
+                                    <p class='sub-heading'>Take the leap and begin your application online.</p>
+                                </div>
+                                <a href="/apply">
+                                    <button class='btn btn--secondary'>Start Application</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+        
+                <div class="footer-bottom-container bg-color-primary-dark mob-three-quarter-panel">
+                    <div class="panel-footer panel-footer--flex">
+                        <div class="footer-bottom-left">
+                            <p class='sub-heading sub-heading--white landscape-hidden'>
+                                Subscribe to our Newsletter
+                            </p>
+                            <p class='sub-heading sub-heading--white landscape-only'>Newsletter</p>
+                            <form
+                                action="//spiced-academy.us12.list-manage.com/subscribe/post?u=d484949f27c464f21ce2d4182&amp;id=fe8732373f"
+                                method='POST' target="_blank">
+                                <div class="field">
+                                    <input id="footer-name" type="text" name="NAME" class='subscribe-input'
+                                        placeholder=Name autocomplete='off' required>
+                                    <label for="footer-name">Name</label>
+                                </div>
+                                <div class="field">
+                                    <input id="footer-email" type="email" name="EMAIL" class='subscribe-input'
+                                        placeholder=Email autocomplete='off' required>
+                                    <label for="footer-email">Email</label>
+                                </div>
+                                <p class='disclaimer'>
+                                    * By clicking Submit, I acknowledge that I have read and agree with the Spiced Academy Privacy Policy.
+                                </p>
+                                <button class='btn btn--secondary'>SUBMIT</button>
+                            </form>
+                            <p class='copyright'>&copy; 2023 Spiced Academy</p>
+                        </div>
+                    </div>
+        
+                    <div class="panel-footer footer-bottom-right footer-bottom-right--flex">
+                        <div class="quick-links">
+                            <p class='footer-title'>Quick Links</p>
+                            <a class="link p-mid-size" href="/program">Programs</a>
+                            <a class="link p-mid-size" href="/about">About</a>
+                            <a class="link p-mid-size" href="/careers">Careers</a>
+                        </div>
+        
+                        <div class="social">
+                            <p class='footer-title'>Social</p>
+                            <div class="footer-icons">
+                                <a href="https://www.instagram.com/spicedacademy/" rel="nofollow noopener" target="_blank">
+                                    <img src="/img/icons/instagram-icon.png" alt="instagram">
+                                </a>
+                                <a href="https://www.facebook.com/spicedacademy/" rel="nofollow noopener" target="_blank">
+                                    <img src="/img/icons/facebook-icon.png" alt="facebook">
+                                </a>
+                            </div>
+                        </div>
+        
+                        <div class="contact">
+                            <p class='footer-title'>Contact Info</p>
+                            <p class='mail-to p-mid-size'>
+                                <a href="mailto:info@spiced-academy.com">info@spiced-academy.com</a>
+                            </p>
+                            <p>+49 30 5093 1680</p>
+                        </div>
+        
+                        <div class="legal">
+                            <p class='footer-title'>Legal</p>
+                            <a class='disclaimer' href="/disclaimer">
+                                <p class='p-mid-size'>Disclaimer</p>
+                            </a>
+                            <a class='privacy' href="/privacy">
+                                <p class='p-mid-size'>Privacy</p>
+                            </a>
+                            <a class='imprint' href="/imprint">
+                                <p class='p-mid-size'>Imprint</p>
+                            </a>
+                            <a class='model' href="/model">
+                                <p class='p-mid-size'>Leitbild</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </section>
+        <div class="banners">
+          <div class='banner fade-out covid-warning-banner'>
+            <div class="banner-text">
+                <p>We are currently running onsite courses under a 2G model. If you do not fit under these regulations please contact our admissions department on <a title="Spiced Academy Email" href="mailto:hello@spiced-academy.com">hello@spiced-academy.com</a> to discuss your options further.</p>
+              </div>
+              <div>
+                  <p class='js-close-covid-warning close-banner'>X</p>
+              </div>
+          </div>        </div>
+    </div>
+
+    <script src='/js/utm.js'></script>
+    <script src="/js/script.js" charset="utf-8"></script>
+    <script src="/js/welcome.js" charset="utf-8"></script>
+</body>
+
+</html>
