@@ -1,0 +1,1 @@
+print('Postgres is running')

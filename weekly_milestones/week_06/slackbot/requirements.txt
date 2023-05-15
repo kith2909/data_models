@@ -1,0 +1,8 @@
+aiohttp==3.8.4
+slack_sdk==3.21.3
+slack_bolt==1.18.0
+pyjokes
+requests
+flask==2.3.2
+SQLAlchemy==2.0.12
+psycopg2-binary==2.9.6
